@@ -1,3 +1,4 @@
+https://www.kaggle.com/code/molcar/lb-0-804-efficientnet-b0-pytorch-pipeline
 BirdCLEF2025 inference에 대한 설명입니다.
 
 --주요 기능--
