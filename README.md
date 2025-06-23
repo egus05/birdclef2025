@@ -16,6 +16,8 @@ https://www.kaggle.com/code/molcar/lb-0-804-efficientnet-b0-pytorch-pipeline
 
 ### 예측 스무딩
 
+### 예측에 대한 제출용 csv 생성  
+
 ## Configuration 설명
 ### SR
 - Sampling Rate
@@ -33,3 +35,6 @@ https://www.kaggle.com/code/molcar/lb-0-804-efficientnet-b0-pytorch-pipeline
 ## 참고사항
 ### 데이터는 아래 링크에서 받을 수 있습니다.
 https://www.kaggle.com/competitions/birdclef-2025
+
+audio_to_mel_overlap.py -> train_model.py -> lb-0-804-efficientnet-b0-pytorch-pipeline.ipynb 순으로 실행해주세요  
+모든 데이터 파일의 Path를 알맞은 Path로 수정해야합니다.
