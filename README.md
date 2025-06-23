@@ -37,4 +37,5 @@ https://www.kaggle.com/code/molcar/lb-0-804-efficientnet-b0-pytorch-pipeline
 https://www.kaggle.com/competitions/birdclef-2025
 
 audio_to_mel_overlap.py -> train_model.py -> lb-0-804-efficientnet-b0-pytorch-pipeline.ipynb 순으로 실행해주세요  
-모든 데이터 파일의 Path를 알맞은 Path로 수정해야합니다.
+모든 데이터 파일의 Path를 알맞은 Path로 수정해야합니다.  
+seresnext와 다른 모델을 사용하려면 https://www.kaggle.com/code/molcar/lb-0-804-efficientnet-b0-pytorch-pipeline 에서 다운받아 주세요
